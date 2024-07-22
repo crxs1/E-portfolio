@@ -4,6 +4,9 @@ By: Cristhian M. Faria-Sanchez
 Artifacts:
 
 Risk Assessment:
+
+
+"
 Part 1: Current Business Risk Assessment
 For the risk assessment of pampered pets as it currently stands, the National Institute of Standards and Technology’s (NIST) Special Publication 800-30 Revision 1” Guide for Conducting Risk Assessments” was chosen. This is due to NIST SP 800-30 being a structured and well documented risk assessment approach that allows for flexibility in the scope and analysis of risk. This assessment will be qualitative due to lack of numerical information. This assessment will make assumptions and statements based on information provided.
 
@@ -57,7 +60,7 @@ Supply Chain Dependency: The business's dependence on local suppliers and employ
 5) Threat Modeling (Overall risk based on assumed likelihood and impact)
 
 
+![image](https://github.com/user-attachments/assets/4154b791-3177-4dd0-a42b-e8650ec3122e)
 
 
-
-
+"
