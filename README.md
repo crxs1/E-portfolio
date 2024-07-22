@@ -41,7 +41,7 @@ Employee Errors when entering data into spreadsheet
 
 
 4) Identifying and predisposing conditions:
-The following will contain assumptions of potential vulnerabilities based on information provided. In order to have a more comprehensive and accurate vulnerability list it is recommended to perform vulnerability scanning, penetration testing and review of configurations.
+  The following will contain assumptions of potential vulnerabilities based on information provided. In order to have a more comprehensive and accurate     vulnerability list it is recommended to perform vulnerability scanning, penetration testing and review of configurations.
 
 Technical Vulnerabilities:
 
